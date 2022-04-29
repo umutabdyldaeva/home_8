@@ -1,0 +1,9 @@
+.wrapper{
+    background-color: coral;
+    box-shadow: 1px 2px;
+    width: 100px;
+    height: 130px;
+    margin-top: 20px;
+    text-align: center;
+}
+
